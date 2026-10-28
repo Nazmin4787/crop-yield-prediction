@@ -225,4 +225,4 @@ joblib
 ---
 
 ## Author
-**Your Name** · [LinkedIn](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+**Your Name** · [LinkedIn](https://www.linkedin.com/in/nazmin-ansari-69357831a)
